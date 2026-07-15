@@ -1,0 +1,13 @@
+ import java.util.*;
+
+    class  Calculate 
+     {
+       int a,b,sum,diff;
+       public void inputdata()
+         {
+            System.out.println("Enter a:");
+            name=in.nextLine();
+            System.out.println("Enter units consumed:");
+            ut=in.nextInt();
+        }
+
